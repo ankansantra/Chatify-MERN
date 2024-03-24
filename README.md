@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankan Santra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankansantra&label=Profile%20views&color=0e75b6&style=flat" alt="ankansantra" /> </p>
 
-- 🔭 I’m currently working on [Chatify-MERN App](https://chatify-mern.onrender.com/login)
+- 🔭 Live link [Chatify-MERN App](https://chatify-mern.onrender.com/login)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
