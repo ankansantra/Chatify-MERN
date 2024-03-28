@@ -1,0 +1,19 @@
+# Exported from Render on 2024-03-28T09:12:30Z
+services:
+- type: web
+  name: Chatify-MERN
+  runtime: node
+  repo: https://github.com/ankansantra/Chatify-MERN
+  branch: main
+  plan: free
+  envVars:
+  - key: PORT
+    sync: false
+  - key: MONGO_URL
+    sync: false
+  - key: JWT_SECRET
+    sync: false
+  region: oregon
+  buildCommand: npm run build
+  startCommand: npm run start
+version: "1"
